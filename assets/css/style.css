@@ -42,6 +42,7 @@ a:hover, a:focus, a:active {
 .navbar-top {
   font-size: 12px;
   padding: 3px 0;
+  background-color: #1f76bd; ;
 }
 .navbar-top .list-inline {
   margin-bottom: 0;
